@@ -1,0 +1,44 @@
+[
+    {
+        "templeName": "Fresno California Temple",
+        "location": "Fresno, California, United States",
+        "dedicated": "9 April 2000",
+        "imageUrl": "https://assets.ldscdn.org/ee/7d/ee7d21fe8eab14e7997cd60629120ebd830433b2/fresno_temple_lds.jpeg"
+    },
+    {
+        "templeName": "Los Angeles California Temple",
+        "location": "Los Angeles, California, United States",
+        "dedicated": "23 September 2012",
+        "imageUrl": "https://assets.ldscdn.org/7e/97/7e97884e4e5aa4f0f511ede200dd952d887e0e67/los_angeles_temple_lds.jpg"
+    },
+    {
+        "templeName": "Newport Beach California Temple",
+        "location": "Newport Beach, California, United States",
+        "dedicated": "28 August 2005",
+        "imageUrl": "https://assets.ldscdn.org/de/38/de385257413780e34bcf91934659920c24c7bde3/newport_beach_california_temple.jpeg"
+    },
+    {
+        "templeName": "Oakland California Temple",
+        "location": "Oakland, California, United States",
+        "dedicated": "17 November 1964",
+        "imageUrl": "https://assets.ldscdn.org/c7/31/c731edc1ad5337acc342f226ddf3163b74113564/oakland_california_temple_exterior.jpeg"
+    },
+    {
+        "templeName": "Redlands California Temple",
+        "location": "Redlands, California, United States",
+        "dedicated": "14 September 2003",
+        "imageUrl": "https://assets.ldscdn.org/3e/37/3e3795759ccab31fd20b9e950b1b38a578adfd0e/redlands_temple_lds.jpeg"
+    },
+    {
+        "templeName": "Sacramento California Temple",
+        "location": "Rancho Cordova, California, United States",
+        "dedicated": "3 September 2006",
+        "imageUrl": "https://assets.ldscdn.org/22/e4/22e4430b9d30b0ddf01189d7ff4e7e303cd91229/sacramento_temple_lds.jpeg"
+    },
+    {
+        "templeName": "San Diego California Temple",
+        "location": "San Diego, California, United States",
+        "dedicated": "25 April 1993",
+        "imageUrl": "https://assets.ldscdn.org/c1/56/c156a77fb82195e588390cdc44084c8cfa990139/san_diego_california_temple.jpeg"
+    }
+]
